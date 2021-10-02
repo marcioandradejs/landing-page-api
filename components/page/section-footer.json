@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_section_footers",
+  "info": {
+    "name": "SectionFooter",
+    "icon": "arrow-down"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
